@@ -4,6 +4,6 @@ public class LogicalOperators {
        boolean hasHighIncome = false;
        boolean hasGoodCredit = true;
        boolean hasCriminalRecord = false;
-       boolean isEligible = (hasHighIncome || hasGoodCredit) && !hasCriminalRecord ; 
+       boolean isEligible = (hasHighIncome || hasGoodCredit) && !hasCriminalRecord; 
     }
 }
