@@ -7,5 +7,6 @@ public class MathClass {
         int result5 = Math.min(1, 2);
         double result6 = Math.random() * 100;
         int result7 = (int) Math.round(Math.random() * 100);
+        System.out.println(result + result2 + result3 + result4 + result5 + result6 + result7);
     }
 }
